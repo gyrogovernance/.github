@@ -106,8 +106,6 @@ This work is licensed under the [Creative Commons Attribution-ShareAlike 4.0 Int
 
 <div align="center">
 
-![Gyro Governance Logo](https://raw.githubusercontent.com/gyrogovernance/gyrogovernance.com/main/src/app/assets/gyrogovernance_logo.svg)
-
 *Advancing AI governance through innovative research and development solutions*
 
 </div>
