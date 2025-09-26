@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Gyro Governance Logo](https://raw.githubusercontent.com/gyrogovernance/gyrogovernance.com/main/public/assets/gyrogovernance_stamp.svg)
+<img src="https://raw.githubusercontent.com/gyrogovernance/gyrogovernance.com/main/public/assets/gyrogovernance_stamp.svg" width="240">
 
 **Advancing AI governance through innovative research and development solutions with cutting-edge mathematical physics foundations**
 
