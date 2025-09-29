@@ -170,7 +170,7 @@ Informs AI research through timeless design and governance principles.
 
 This work is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
 
-**BASIL KOROMPILIAS | 2025 | CC BY-SA 4.0**
+**GYRO GOVERNANCE | 2025 | CC BY-SA 4.0**
 
 ---
 
