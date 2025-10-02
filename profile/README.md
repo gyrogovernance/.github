@@ -29,19 +29,33 @@ Key developments include:
 
 ## 🔬 Labs
 
-### Gyroscopic Alignment Research Lab
+### Mathematical Physics Science: Gyroscopic Alignment Research Lab
 **Mathematical Physics Foundations**
 
-[![GitHub](https://img.shields.io/badge/View%20on%20GitHub-181717?style=flat-square&logo=github)](https://github.com/gyrogovernance/gyroscopic-alignment-research-lab)
+[![GitHub](https://img.shields.io/badge/View%20on%20GitHub-181717?style=flat-square&logo=github)](https://github.com/gyrogovernance/science)
 
 Research laboratory focused on developing mathematical physics foundations for AI alignment and governance.
 
-### Gyroscopic Alignment Development Lab
+### Artificial Superintelligence Architecture (ASI/AGI): Gyroscopic Alignment Development Lab
 **Artificial Superintelligence Architecture (ASI/AGI)**
 
-[![GitHub](https://img.shields.io/badge/View%20on%20GitHub-181717?style=flat-square&logo=github)](https://github.com/gyrogovernance/gyroscopic-alignment-development-lab)
+[![GitHub](https://img.shields.io/badge/View%20on%20GitHub-181717?style=flat-square&logo=github)](https://github.com/gyrogovernance/superintelligence)
 
 Development laboratory working on ASI/AGI architecture and implementation frameworks.
+
+### AI Safety Diagnostics: Gyroscopic Alignment Evaluation Lab
+**AI Safety Diagnostics**
+
+[![GitHub](https://img.shields.io/badge/View%20on%20GitHub-181717?style=flat-square&logo=github)](https://github.com/gyrogovernance/diagnostics)
+
+Evaluation laboratory specializing in AI safety diagnostics and assessment frameworks.
+
+### AI Quality Governance: Gyroscopic Alignment Behaviour Lab
+**AI Quality Governance**
+
+[![GitHub](https://img.shields.io/badge/View%20on%20GitHub-181717?style=flat-square&logo=github)](https://github.com/gyrogovernance/protocols)
+
+Behaviour laboratory focused on AI quality governance and protocol development.
 
 ---
 
