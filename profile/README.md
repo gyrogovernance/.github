@@ -53,20 +53,11 @@ Evaluation laboratory specializing in AI safety diagnostics and assessment frame
 ### AI Quality Governance: Gyroscopic Alignment Behaviour Lab
 **AI Quality Governance**
 
-[![GitHub](https://img.shields.io/badge/View%20on%20GitHub-181717?style=flat-square&logo=github)](https://github.com/gyrogovernance/protocols)
+[![GitHub](https://img.shields.io/badge/View%20on%20GitHub-181717?style=flat-square&logo=github)](https://github.com/gyrogovernance/tools)
 
-Behaviour laboratory focused on AI quality governance and protocol development.
+Behaviour laboratory focused on AI quality governance and tools development.
 
----
-
-## ⚙️ Tools
-
-### Gyroscope
-**LLM Alignment Protocol & Diagnostics**
-
-[![GitHub](https://img.shields.io/badge/View%20on%20GitHub-181717?style=flat-square&logo=github)](https://github.com/gyrogovernance/gyroscope)
-
-Advanced LLM alignment protocol and diagnostic tools for ensuring AI safety and coherence. Delivers 30-50% improvements in quality, reasoning, accountability, traceability, and integrity across models like ChatGPT and Claude Sonnet.
+Gyroscope - An Advanced LLM alignment protocol and diagnostic tools for ensuring AI safety and coherence. Delivers 30-50% improvements in quality, reasoning, accountability, traceability, and integrity across models like ChatGPT and Claude Sonnet.
 
 ---
 
@@ -154,7 +145,7 @@ Foundational work on sensory ethics applicable to both biological and artificial
 
 [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=spotify)](https://open.spotify.com/show/3iJZE6wfQ4K35xBNyHhSi2?si=b000840ad8834caa)
 
-Informs AI safety protocols and behavioral alignment.
+Informs AI safety tools and behavioral alignment.
 
 #### Crisis Resolutions Training
 **Professional and Personal conflict resolution methodologies**
