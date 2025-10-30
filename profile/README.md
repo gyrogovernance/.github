@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/gyrogovernance/gyrogovernance.com/main/public/assets/gyrogovernance_stamp.svg" width="240">
+<a href="https://gyrogovernance.com"><img src="https://raw.githubusercontent.com/gyrogovernance/gyrogovernance.com/main/public/assets/gyrogovernance_stamp.svg" width="240"></a>
 
 **Advancing AI governance through innovative research and development solutions with cutting-edge mathematical physics foundations**
 
@@ -15,12 +15,12 @@
 ---
 
 
-[![Home](/assets/menu/gyro_icon_home.svg)](https://gyrogovernance.com)
-[![Apps](/assets/menu/gyro_icon_apps.svg)](https://github.com/gyrogovernance/apps)
-[![Diagnostics](/assets/menu/gyro_icon_diagnostics.svg)](https://github.com/gyrogovernance/diagnostics)
-[![Tools](/assets/menu/gyro_icon_tools.svg)](https://github.com/gyrogovernance/tools)
-[![Science](/assets/menu/gyro_icon_science.svg)](https://github.com/gyrogovernance/science)
-[![Superintelligence](/assets/menu/gyro_icon_si.svg)](https://github.com/gyrogovernance/superintelligence)
+[![Home](../assets/menu/gyro_icon_home.svg)](https://gyrogovernance.com)
+[![Apps](../assets/menu/gyro_icon_apps.svg)](https://github.com/gyrogovernance/apps)
+[![Diagnostics](../assets/menu/gyro_icon_diagnostics.svg)](https://github.com/gyrogovernance/diagnostics)
+[![Tools](../assets/menu/gyro_icon_tools.svg)](https://github.com/gyrogovernance/tools)
+[![Science](../assets/menu/gyro_icon_science.svg)](https://github.com/gyrogovernance/science)
+[![Superintelligence](../assets/menu/gyro_icon_si.svg)](https://github.com/gyrogovernance/superintelligence)
 
 </div>
 
@@ -35,7 +35,7 @@
 ---
 
 
-![Home](/assets/gyro_cover_home.png)
+[![Home](../assets/gyro_cover_home.png)](https://gyrogovernance.com)
 
 ## 💫 Gyro Governance
 
@@ -61,7 +61,7 @@ Key developments include:
 ---
 ### AI Empowered Governance Apps: Gyroscopic Alignment Policy Development Lab
 
-![Apps](/assets/gyro_cover_apps.png)
+[![Apps](../assets/gyro_cover_apps.png)](https://github.com/gyrogovernance/apps)
 
 
 [![GitHub](https://img.shields.io/badge/View%20on%20GitHub-181717?style=flat-square&logo=github)](https://github.com/gyrogovernance/apps)
@@ -71,7 +71,7 @@ Key developments include:
 
 ### AI Safety Diagnostics: Gyroscopic Alignment Evaluation Lab
 
-![Diagnostics](/assets/gyro_cover_diagnostics.png)
+[![Diagnostics](../assets/gyro_cover_diagnostics.png)](https://github.com/gyrogovernance/diagnostics)
 
 > Evaluation laboratory specializing in AI safety diagnostics and assessment frameworks.
 
@@ -79,7 +79,7 @@ Key developments include:
 
 ### AI Quality Governance: Gyroscopic Alignment Behaviour Lab
 
-![Tools](/assets/gyro_cover_tools.png)
+[![Tools](../assets/gyro_cover_tools.png)](https://github.com/gyrogovernance/tools)
 
 > Behaviour laboratory focused on AI quality governance and tools development.
 
@@ -87,7 +87,7 @@ Key developments include:
 
 ### Mathematical Physics Science: Gyroscopic Alignment Research Lab
 
-![Science](/assets/gyro_cover_science.png)
+[![Science](../assets/gyro_cover_science.png)](https://github.com/gyrogovernance/science)
 
 > Research laboratory focused on developing mathematical physics foundations for AI alignment and governance.
 
@@ -95,7 +95,7 @@ Key developments include:
 
 ### Artificial Superintelligence Architecture (ASI/AGI): Gyroscopic Alignment Models Lab
 
-![Superintelligence](/assets/gyro_cover_si.png)
+[![Superintelligence](../assets/gyro_cover_si.png)](https://github.com/gyrogovernance/superintelligence)
 
 > Development laboratory working on ASI/AGI architecture and implementation frameworks.
 
@@ -122,7 +122,7 @@ This work is licensed under the [Creative Commons Attribution-ShareAlike 4.0 Int
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/gyrogovernance/gyrogovernance.com/main/public/assets/gyrogovernance_stamp.svg" width="240">
+<a href="https://gyrogovernance.com"><img src="https://raw.githubusercontent.com/gyrogovernance/gyrogovernance.com/main/public/assets/gyrogovernance_stamp.svg" width="240"></a>
 
 *Advancing AI governance through innovative research and development solutions*
 
