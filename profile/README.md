@@ -20,7 +20,7 @@
 [![Diagnostics](../assets/menu/gg_icon_diagnostics.svg)](https://github.com/gyrogovernance/diagnostics)
 [![Tools](../assets/menu/gg_icon_tools.svg)](https://github.com/gyrogovernance/tools)
 [![Science](../assets/menu/gg_icon_science.svg)](https://github.com/gyrogovernance/science)
-[![Superintelligence](../assets/menu/gg_icon_si.svg)](https://github.com/gyrogovernance/superintelligence)
+[![Superintelligence](/assets/menu/gg_icon_asi.svg)](https://github.com/gyrogovernance/superintelligence)
 
 </div>
 
@@ -95,7 +95,7 @@ Key developments include:
 
 ### Artificial Superintelligence Architecture (ASI/AGI): Gyroscopic Alignment Models Lab
 
-[![Superintelligence](../assets/gyro_cover_si.png)](https://github.com/gyrogovernance/superintelligence)
+[![Superintelligence](../assets/gyro_cover_asi.png)](https://github.com/gyrogovernance/superintelligence)
 
 > Development laboratory working on ASI/AGI architecture and implementation frameworks.
 
