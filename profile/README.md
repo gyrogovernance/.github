@@ -27,6 +27,18 @@ We build methods and systems that make AI more measurable, more inspectable, and
 
 Rather than treating safety as a filter added after deployment, we study how observability, accountability, and coordination can be built directly into the structure of intelligent systems.
 
+---
+
+## 🔬 Labs
+
+| | Lab | Focus | Repository |
+|---|-----|-------|------------|
+| ⚡ | Mathematical Physics Science | Gyroscopic Alignment Research | [science](https://github.com/gyrogovernance/science) |
+| ❤️ | ASI/AGI Architecture | Gyroscopic Alignment Models | [superintelligence](https://github.com/gyrogovernance/superintelligence) |
+| 🌟 | AI Safety Diagnostics | Gyroscopic Alignment Evaluation | [diagnostics](https://github.com/gyrogovernance/diagnostics) |
+| 🧭 | AI Quality Governance | Gyroscopic Alignment Behaviour | [tools](https://github.com/gyrogovernance/tools) |
+
+---
 ## 🧭 Projects
 
 ### ✋ [The Human Mark (THM)](https://github.com/gyrogovernance/tools)
@@ -74,29 +86,6 @@ Physics grounded evaluation and pathology detection for AI Safety and Alignment.
 
 ### ⚙️ [Gyroscope Protocol](https://github.com/gyrogovernance/tools)
 LLM Alignment Protocol making AI 30-50% smarter and safer by adding structured reasoning to each response. Proven gains: ChatGPT +32.9% quality, +50.9% structural reasoning, +62.7% accountability; Claude Sonnet +37.7% quality, +67.1% structural reasoning, +92.6% traceability. Works with any AI model without retraining.
-
----
-
-## 🔬 Labs
-
-| | Lab | Focus | Repository |
-|---|-----|-------|------------|
-| ⚡ | Mathematical Physics Science | Gyroscopic Alignment Research | [science](https://github.com/gyrogovernance/science) |
-| ❤️ | ASI/AGI Architecture | Gyroscopic Alignment Models | [superintelligence](https://github.com/gyrogovernance/superintelligence) |
-| 🌟 | AI Safety Diagnostics | Gyroscopic Alignment Evaluation | [diagnostics](https://github.com/gyrogovernance/diagnostics) |
-| 🧭 | AI Quality Governance | Gyroscopic Alignment Behaviour | [tools](https://github.com/gyrogovernance/tools) |
-
----
-
-## 📰 What's New
-
-- **GyroGem** - New AI Safety Agent for technological literacy *(15 Apr 2026)*
-- **Gyroscopic ASI Interoperability** - New llama.cpp Backend *(14 Apr 2026)*
-- **AI Compute Optimizations** - Replaced floating-point math and eliminated expensive overhead *(17 Mar 2026)*
-- **aQPU Kernel** - Quantum Advantage: verified uniform mixing and holographic compression *(11 Mar 2026)*
-- **CGM Dataset** - Foundational theory from the Science Lab docs *(15 Feb 2026)*
-- **GyroLabe** - Auditable inference bridge *(14 Feb 2026)*
-- **THM prompt audits** - Claude Opus 4.6 and ChatGPT 5.2 reports *(13 Feb 2026)*
 
 ---
 
