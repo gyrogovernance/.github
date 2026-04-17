@@ -1,3 +1,32 @@
+# Gyro Governance
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/gyrogovernance/gyrogovernance.com/main/public/assets/gyrogovernance_stamp.svg" width="240">
+
+**Open source research for AI alignment, evaluation, and governance**
+
+[![Website](https://img.shields.io/badge/Website-gyrogovernance.com-blue?style=for-the-badge&logo=web)](https://gyrogovernance.com)
+[![Author](https://img.shields.io/badge/Author-Basil%20Korompilias-green?style=for-the-badge&logo=github)](https://korompilias.github.io/)
+[![License](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey?style=for-the-badge)](https://creativecommons.org/licenses/by-sa/4.0/)
+
+</div>
+
+---
+
+## About
+
+Gyro Governance is an independent research lab founded in 2013, focused on artificial intelligence alignment, evaluation, and governance.
+
+We build methods and systems that make AI more measurable, more inspectable, and easier to govern responsibly. Our work connects mathematical physics, practical engineering, and governance design across four areas:
+
+- **AI safety evaluation and alignment**
+- **Verifiable AI systems**
+- **Governance infrastructure**
+- **Mathematical foundations**
+
+Rather than treating safety as a filter added after deployment, we study how observability, accountability, and coordination can be built directly into the structure of intelligent systems.
+
 ## 🧭 Projects
 
 ### ✋ [The Human Mark (THM)](https://github.com/gyrogovernance/tools)
