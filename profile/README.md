@@ -16,7 +16,7 @@
 
 ## About
 
-Gyro Governance is an independent research lab founded in 2013, focused on artificial intelligence alignment, evaluation, and governance.
+Gyro Governance is an independent research lab founded in 2018, focused on artificial intelligence alignment, evaluation, and governance.
 
 We build methods and systems that make AI more measurable, more inspectable, and easier to govern responsibly. Our work connects mathematical physics, practical engineering, and governance design across four areas:
 
@@ -56,15 +56,17 @@ Browser extension for evaluation and governance of AI outputs. Gadgets for rapid
 
 🧩 [Chrome Web Store](https://chromewebstore.google.com/detail/ai-inspector/hcblmheihnlngnogobgclhfahjljnbok?utm_source=item-share-cb)
 
-### ⚛️ [Quantum AGI Infrastructure: aQPU Kernel](https://github.com/gyrogovernance/superintelligence)
-Quantum Computing Advantage on Standard Silicon. The aQPU is a compact, finite-state kernel for AGI with verified quantum speedups, 33% holographic compression, and intrinsic error detection. QuBEC is its Bose-Einstein byte medium enabling quantum properties on standard CPUs/GPUs without qubits or cryogenics. 1.26B ops/s, 499 tests passing, 4,096 states, zero qubits.
+### ⚛️ [Holonomic QVM: hQVM Kernel](https://github.com/gyrogovernance/superintelligence)
+Holonomic Quantum Virtual Machine on Standard Silicon. The hQVM is a compact finite-state kernel for coordination and audit at AGI scale with verified structural speedups, holographic compression, and intrinsic error detection. QuBEC is the byte medium with intrinsic ensemble stochasticity from the byte rule. 240+ verified features across 60+ experiments. 1.26B ops/s, 499 tests passing, 4,096 states.
 
-📊 [Strategic Significance](https://github.com/gyrogovernance/superintelligence/blob/main/docs/Gyroscopic_ASI_SDK_Strategic_Significance_Brief.md) · [SDK Spec](https://github.com/gyrogovernance/superintelligence/blob/main/docs/Gyroscopic_ASI_SDK_Quantum_Computing.md) · [Climate Brief](https://github.com/gyrogovernance/superintelligence/blob/main/docs/theory/QuBEC_Climate_Control_Brief.md)
+📊 [Quantum Features](https://github.com/gyrogovernance/superintelligence/blob/main/docs/reports/hQVM_Features_Report.md) · [Kernel Spec](https://github.com/gyrogovernance/superintelligence/blob/main/docs/Gyroscopic_ASI_Specs.md)
 
-### 🤖 [Gyroscopic ASI Runtime: GyroLabe, GyroGraph](https://github.com/gyrogovernance/superintelligence)
-Intelligence-Agnostic Meta-Computing. GyroLabe is the substitutional execution layer that upgrades neural models by swapping their internal engine, with native C/C++ backends and llama.cpp integration. GyroGraph is a multicellular quantum AI coordinating distributed computation through four bridge domains. Verified: 100% native matmul routing, 284× faster encode than softmax, zero transcendental functions.
+### 🤖 [Gyroscopic ASI Runtime](https://github.com/gyrogovernance/superintelligence/blob/main/docs/Gyroscopic_ASI_Runtime_Specs.md)
+**Gyroscopic ASI** is infrastructure for multi-domain network coordination establishing the structural conditions for Collective Superintelligence Governance and seamless cooperation between humans and machines.
 
-📄 [GyroLabe Spec](https://github.com/gyrogovernance/superintelligence/blob/main/docs/GyroLabe_Specs.md) · [GyroGraph Spec](https://github.com/gyrogovernance/superintelligence/blob/main/docs/GyroGraph_Specs.md)
+The Runtime composes the hQVM kernel into a universal computational condenser with native execution and multicellular coordination. Its llama.cpp custom backend aims to leverage its quantum features for compression and speedups, while establishing a replayable, tamper-evident substrate for zero-trust AI governance.
+
+📄 [Strategic Significance](https://github.com/gyrogovernance/superintelligence/blob/main/docs/Gyroscopic_ASI_SDK_Strategic_Significance_Brief.md) · [Climate Control Report](https://github.com/gyrogovernance/superintelligence/blob/main/docs/reports/QuBEC_Climate_Tests_Report.md)
 
 ### 🍃 [Alignment Infrastructure Routing (AIR)](https://github.com/gyrogovernance/superintelligence)
 AI Safety Capacity-Building Stack for Human-AI Coordination and Governance. Routes human capacity into paid work with full replayable provenance, removing institutional gates. Contributors map work to four governance capacities (Intelligence Cooperation, Inference Interaction, Information Curation, Governance Management). For labs and funders: verifiable outcomes and auditable compliance for ISO 42001 and AI Legislation. Coordinates across Economy, Employment, Education, Ecology.
@@ -72,7 +74,7 @@ AI Safety Capacity-Building Stack for Human-AI Coordination and Governance. Rout
 📄 [AIR Brief](https://github.com/gyrogovernance/superintelligence/blob/main/docs/AIR_Brief.md) · [AIR Logistics](https://github.com/gyrogovernance/superintelligence/blob/main/docs/AIR_Logistics.md)
 
 ### 💰 [Moments Economy](https://github.com/gyrogovernance/superintelligence)
-Attentiveness-based monetary system for Post-AGI Transformative AI Risks Mitigation. Civil governance framework where coordination capacity is physically abundant and verifiable, anchored in the SI second and the aQPU state-space. Total capacity: 7.94 × 10²⁶ Moment-Units. Unconditional High Income baseline of 240 MU/day. Native commodity: AI Generated Tokens as verified inference events. No debt issuance, no discretionary monetary policy.
+Attentiveness-based monetary system for Post-AGI Transformative AI Risks Mitigation. Civil governance framework where coordination capacity is physically abundant and verifiable, anchored in the SI second and the hQVM state-space. Total capacity: 7.94 × 10²⁶ Moment-Units. Unconditional High Income baseline of 240 MU/day. Native commodity: AI Generated Tokens as verified inference events. No debt issuance, no discretionary monetary policy.
 
 📄 [Whitepaper](https://github.com/gyrogovernance/superintelligence/blob/main/docs/AIR_Moments_Economy_Whitepaper.md) · [Specification](https://github.com/gyrogovernance/superintelligence/blob/main/docs/AIR_Moments_Economy_Specs.md)
 
@@ -114,6 +116,7 @@ LLM Alignment Protocol making AI 30-50% smarter and safer by adding structured r
 - 📄 [AI Canon](https://doi.org/10.17613/txwg-v619) - Sensory Ethics for Biological and Artificial Entities
 
 ### Experiments
+- 🔭 [Subatomic Physics and Gravity](https://github.com/gyrogovernance/science) - Mathematical Physics verified through the hQVM kernel · [Gravity Analysis](https://github.com/gyrogovernance/science/blob/main/docs/references/Analysis_Gravity.md)
 - ⚛️ [Quantum AI Research](https://korompilias.notion.site/Quantum-AI-Research-By-Basil-6e0f7ae790c84c209c82b97180ce9a1c) - Architecting Qubit-Tensor-Chain (QTC)
 
 ### Media
