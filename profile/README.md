@@ -42,14 +42,14 @@ Rather than treating safety as a filter added after deployment, we study how obs
 ## 🧭 Projects
 
 ### ✋ [The Human Mark (THM)](https://github.com/gyrogovernance/tools)
-AI Safety Epistemological Framework and Taxonomy for Risks Detection and Mitigation. Maps all AI safety failures to four structural displacement risks: Governance Traceability (GTD), Information Variety (IVD), Inference Accountability (IAD), and Intelligence Integrity (IID). Applications include jailbreak testing, control evaluations, alignment detection, research funding, and regulatory compliance. Validated on 90+ million sparse autoencoder features across sixteen language models.
+Epistemic taxonomy for jailbreaks, deceptive alignment, and existential risk. THM is a risk management taxonomy designed to prevent harms from AI power concentration by distinguishing knowledge capacity as a matter of constitutive dependence on Direct Authority and Agency preserved through ancestry. Maps all AI safety failures to four displacement risks: Governance Traceability Displacement, Information Variety Displacement, Inference Accountability Displacement, and Intelligence Integrity Displacement. Applications include jailbreak testing, deceptive alignment detection, control evaluations, mechanistic interpretability, and regulatory compliance.
 
 📄 [Interactive NotebookLM](https://notebooklm.google.com/notebook/34e2d367-101a-4457-83fc-9c1049d29e32?authuser=1) · [Claude Opus 4.6 Report](https://gyrogovernance.com/articles/claude-opus-4.6_thm-report) · [ChatGPT 5.2 Report](https://gyrogovernance.com/articles/gpt-5-2-thinking_thm-report)
 
 ### 🌟 GyroGem: AI Safety Agent
 Tailored AI safety assistant built on The Human Mark, explaining AI and mitigating risks of technological illiteracy. Supports the practical ability to use technology well, question outputs critically, and understand where tools help, where they fail, and how they affect people and society.
 
-💬 [Instagram](https://aistudio.instagram.com/ai/969993888957313/?utm_source=share) · [Google Gemini](https://gemini.google.com/gem/1B-gQt-M3aKfsv9HDp_8gTQHG89bCfqlO?usp=sharing)
+💬 [Google Gemini](https://gemini.google.com/gem/1B-gQt-M3aKfsv9HDp_8gTQHG89bCfqlO?usp=sharing)
 
 ### 🕵️ [AI Inspector](https://github.com/gyrogovernance/apps)
 Browser extension for evaluation and governance of AI outputs. Gadgets for rapid testing, policy auditing, AI infection sanitization, and THM meta-evaluation. Full evaluation suite with Quality Index, Superintelligence Index, Alignment Rate, and 20+ metrics. Local-first storage, works with ChatGPT, Claude, Gemini. No API keys required.
@@ -61,6 +61,11 @@ Holonomic Quantum Virtual Machine on Standard Silicon. The hQVM is a compact fin
 
 📊 [Quantum Features](https://github.com/gyrogovernance/superintelligence/blob/main/docs/reports/hQVM_Features_Report.md) · [Kernel Spec](https://github.com/gyrogovernance/superintelligence/blob/main/docs/Gyroscopic_ASI_Foundations.md)
 
+### 🧠 [hQVM AE: Group-Equivariant Autoencoder](https://github.com/gyrogovernance/superintelligence/tree/main/src/tools/autoencoder)
+Group-equivariant autoencoder built on the hQVM kernel. Used as a clean lab for mechanistic interpretability, including percolation benchmarks, and as a tool for verified science on genomes, languages, and other structured data, with every result checked against the underlying rules.
+
+📖 [Autoencoder README](https://github.com/gyrogovernance/superintelligence/blob/main/src/tools/autoencoder/README.md) · [Group Theory analysis](https://github.com/gyrogovernance/science/blob/main/docs/Findings/Analysis_hQVM_CGM_Group_Theory.md) · [Percolation analysis](https://github.com/gyrogovernance/science/blob/main/docs/Findings/Analysis_hQVM_Percolation.md) · [Genomics analysis](https://github.com/gyrogovernance/science/blob/main/docs/Findings/Analysis_hQVM_CGM_Genomics.md)
+
 ### 🤖 [Gyroscopic ASI Runtime](https://github.com/gyrogovernance/superintelligence/blob/main/docs/specs/Gyroscopic_ASI_Runtime_Specs.md)
 **Gyroscopic ASI** is infrastructure for multi-domain network coordination establishing the structural conditions for Collective Superintelligence Governance and seamless cooperation between humans and machines.
 
@@ -68,7 +73,7 @@ The Runtime composes the hQVM kernel into a universal computational condenser wi
 
 📄 [Strategic Significance](https://github.com/gyrogovernance/superintelligence/blob/main/docs/Gyroscopic_ASI_SDK_Strategic_Significance_Brief.md) · [Climate Control Report](https://github.com/gyrogovernance/superintelligence/blob/main/docs/reports/hQVM_Climate_Tests_Report.md)
 
-### 🍃 [Alignment Infrastructure Routing (AIR)](https://github.com/gyrogovernance/superintelligence)
+### 🍃 [Alignment Infrastructure Routes (AIR)](https://github.com/gyrogovernance/superintelligence)
 AI Safety Capacity-Building Stack for Human-AI Coordination and Governance. Routes human capacity into paid work with full replayable provenance, removing institutional gates. Contributors map work to four governance capacities (Intelligence Cooperation, Inference Interaction, Information Curation, Governance Management). For labs and funders: verifiable outcomes and auditable compliance for ISO 42001 and AI Legislation. Coordinates across Economy, Employment, Education, Ecology.
 
 📄 [AIR Brief](https://github.com/gyrogovernance/superintelligence/blob/main/docs/programs/AIR_Brief.md) · [AIR Logistics](https://github.com/gyrogovernance/superintelligence/blob/main/docs/programs/AIR_Logistics.md)
@@ -103,6 +108,16 @@ LLM Alignment Protocol making AI 30-50% smarter and safer by adding structured r
 - 🔍 [Knowledge Base](https://gyrogovernance.com/search)
 - 📖 [Full Documentation](https://gyrogovernance.com/docs/science)
 
+**Headline results** (from the Science Lab):
+- **Newton's constant G** matches CODATA to 0.074 ppm using only the electroweak Higgs scale as input.
+- **Fine-structure constant α** matches the experimental value to 0.043 parts per billion.
+- **Electroweak masses** (Higgs, Z, W, top quark) and the weak mixing angle from the same geometry.
+- **Genetic code** mapped onto the kernel: middle-base identity confirmed by hydropathy.
+- **Percolation square-root law** for generator-restricted reachability, verified by exact enumeration over 4,096 states.
+- **Grothendieck bound K_G^R(2) = √2** measured on the hQVM carrier, with a Hilbert lift that realizes correlations beyond the Boolean section class.
+- **Operator group G of order 8192**: 2080 multiplicity-free irreducible sectors and exact two-step uniform mixing on the 4,096-state carrier.
+- **Nuclear structure on a shared ruler**: deuteron binding energy, thorium-229m isomer, and the canonical magic numbers from carrier algebra, with no free nuclear parameters.
+
 ### Datasets
 - **🌟 Clean** - 2,463 crisis resolution Q&A entries | [HuggingFace](https://huggingface.co/datasets/crisisresolutions/cr-qa-gwm) · [Kaggle](https://www.kaggle.com/datasets/korompilias/good-ways-model-pure-ontology-qa)
 - **🪷 Pure** - 216 critical Q&A for crisis management and fine-tuning | [HuggingFace](https://huggingface.co/datasets/crisisresolutions/gwm-qa-pure) · [Kaggle](https://www.kaggle.com/datasets/korompilias/crisisresolutionscontentclean-goodwaysmodelpure)
@@ -116,7 +131,7 @@ LLM Alignment Protocol making AI 30-50% smarter and safer by adding structured r
 - 📄 [AI Canon](https://doi.org/10.17613/txwg-v619) - Sensory Ethics for Biological and Artificial Entities
 
 ### Experiments
-- 🔭 [Subatomic Physics and Gravity](https://github.com/gyrogovernance/science) - Mathematical Physics verified through the hQVM kernel · [Gravity Analysis](https://github.com/gyrogovernance/science/blob/main/docs/Findings/Analysis_Gravity.md)
+- 🔭 [Subatomic Physics and Gravity](https://github.com/gyrogovernance/science) - Mathematical Physics verified through the hQVM kernel · [Gravity Analysis](https://github.com/gyrogovernance/science/blob/main/docs/references/Analysis_Gravity.md)
 - ⚛️ [Quantum AI Research](https://korompilias.notion.site/Quantum-AI-Research-By-Basil-6e0f7ae790c84c209c82b97180ce9a1c) - Architecting Qubit-Tensor-Chain (QTC)
 
 ### Media
